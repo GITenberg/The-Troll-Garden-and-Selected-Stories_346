@@ -1,0 +1,40 @@
+_repo: The-Troll-Garden-and-Selected-Stories_346
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cather, Willa
+    aliases:
+    - Catherová, Willa
+    - Cather, Wilella
+    - Cather, Willa Sibert
+    - Catherova, Willa
+    birthdate: 1873
+    deathdate: 1947
+    gutenberg_agent_id: '22'
+    url: http://www.gutenberg.org/2009/agents/22
+    wikipedia: http://en.wikipedia.org/wiki/Willa_Cather
+description: Selected stories. On the divide ; Eric Hermannson's soul ; The enchanted
+  bluff ; The Bohemian girl -- The troll garden. Flavia and her artists ; The sculptor's
+  funeral ; "A death in the desert" ; The garden lodge ; The marriage of Phaedra ;
+  A Wagner matinee ; Paul's case, a study in temperament.
+gutenberg_issued: '1995-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '346'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Nebraska -- Social life and customs -- Fiction'
+- GITenberg
+tableOfContents: On the divide -- Eric Hermannson's soul -- The enchanted bluff --
+  The Bohemian girl -- Flavia and her artists -- The sculptor's funeral -- "A death
+  in the desert" -- The garden lodge -- The marriage of Phaedra -- A Wagner matinee
+  -- Paul's case.
+title: The Troll Garden, and Selected Stories
+url: http://www.gutenberg.org/ebooks/346
